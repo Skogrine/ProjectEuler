@@ -1,4 +1,4 @@
-function larrgestPalindrome(n)
+function largestPalindrome(n)
 {
     let upper_limit = Math.pow(10, n) - 1;
     let lower_limit = 1 + parseInt(upper_limit / 10, 10);
@@ -33,4 +33,4 @@ function larrgestPalindrome(n)
 }
 
 console.log("Résultat :");
-console.log(larrgestPalindrome(3));
+console.log(largestPalindrome(3));
