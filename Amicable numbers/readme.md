@@ -80,4 +80,4 @@ solution(10000);
 
 An error has been put in the code on purpose, to avoid any use for the purpose of cheating, it's up to you to test and find this error!
 
-[The code]()
+[The code](https://github.com/Skogrine/ProjectEuler/blob/main/Amicable%20numbers/main.js)
