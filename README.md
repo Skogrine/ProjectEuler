@@ -8,8 +8,6 @@ This is not for cheating use, It allows you to understand the written code and n
 
 ![Levels](https://img.shields.io/badge/Levels-1%20--%2022-ff69b4)
 
-# Solution
-
 # Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change or add.
 
